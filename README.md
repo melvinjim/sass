@@ -7,7 +7,7 @@ $ sudo gem install sass
 ```
 
 step 2:
-now we execute the following code in the terminal
+now we execute the following code in the terminal:
 ```
 sass --watch scss:css
 ```
